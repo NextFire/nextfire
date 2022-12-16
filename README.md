@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hello! 👋
+
 🐈 🐧 🏕
+
+- 🧑‍💻 [My Projects](https://github.com/NextFire) (you're here!)
+- 🎒 At School: [ENSEEIHT](https://github.com/NextFire-N7), [Polytechnique Montréal](https://github.com/NextFire-PolyMTL)
+- 🍩 With Friends: [Japan7](https://github.com/Japan7)
